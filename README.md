@@ -1,4 +1,4 @@
-### Hi 👋, I'm Taemin Kim
+### Hello 👋, I'm Kim Tae-min, whose dream is to become an AI researcher.
 
 ---
 
