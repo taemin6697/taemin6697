@@ -52,7 +52,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697)](https://github.com/SangwonYoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
 ---
 
 <b> Baekjoon Tier </b>
