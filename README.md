@@ -44,8 +44,15 @@
 > * #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos)에서 시청할 수 있습니다.
 ----
 
+### Uploaded Model
+> * __kfkas/t5-large-korean-P2G / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-P2G)__
+> * __kfkas/t5-large-korean-news-title-klue-ynat / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-news-title-klue-ynat)__
+ > * __kfkas/RoBERTa-large-Detection-P2G / [Huggingface](https://huggingface.co/kfkas/RoBERTa-large-Detection-P2G)__
+----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697)](https://github.com/SangwonYoon/github-readme-stats)
 ---
 
 <b> Baekjoon Tier </b>
