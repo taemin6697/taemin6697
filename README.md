@@ -30,6 +30,21 @@
 > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
 ----
 
+### Paper Review
+> * __Pre-training of Deep Bidirectional Transformers for Language Understanding / [BERT](https://velog.io/@tm011899/BERT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0%EC%93%B0%EB%8A%94%EC%A4%91)__
+> * __Attention is all you need / [Transformer](https://velog.io/@tm011899/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-5%EA%B8%B0-5%EC%A3%BC%EC%B0%A8-Transformer)__
+> * __Effective Approaches to Attention-based Neural Machine Translation / [Seq2Seq with Attention](https://github.com/taemin6697/Paper_Review/blob/master/Seq2Seq_with_attention.pdf)__
+> * __Sequence to Sequence Learning with Neural Networks / [Seq2Seq](https://github.com/taemin6697/Paper_Review/blob/master/Seq2Seq.pdf)__
+> * __TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models / [TrOCR](https://github.com/taemin6697/Paper_Review/blob/master/Trocr.pdf)__
+> * __SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers / [Segformer](https://github.com/taemin6697/Paper_Review/blob/master/SegFormer.pdf)__
+> * __An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale / [Vision Transformer](https://www.youtube.com/watch?v=sOY0H_EeH3Q&ab_channel=%ED%83%9C%EB%AF%BC%EA%B9%80)__
+> * __Involution: Inverting the Inherence of Convolution for Visual Recognition / [Involution](https://github.com/taemin6697/Paper_Review/blob/master/involution.pdf)__
+> * __Big Transfer (BiT): General Visual Representation Learning / [BiT](https://github.com/taemin6697/Paper_Review/blob/master/BiT(AI%20study).pdf)__
+> * __Micro-Batch Training with Batch-Channel Normalization and Weight Standardization / [Weight Standardization](https://github.com/taemin6697/Paper_Review/blob/master/Weight%20Standardization-re.pdf)__
+> * #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos)에서 시청할 수 있습니다.
+----
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
 ---
 
