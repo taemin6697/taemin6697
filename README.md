@@ -31,6 +31,7 @@
 ----
 
 ### Paper Review
+> * __Improving Language Understanding by Generative Pre-Training / [GPT-1](https://velog.io/@tm011899/GPT-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)__
 > * __Pre-training of Deep Bidirectional Transformers for Language Understanding / [BERT](https://velog.io/@tm011899/BERT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0%EC%93%B0%EB%8A%94%EC%A4%91)__
 > * __Attention is all you need / [Transformer](https://velog.io/@tm011899/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-5%EA%B8%B0-5%EC%A3%BC%EC%B0%A8-Transformer)__
 > * __Effective Approaches to Attention-based Neural Machine Translation / [Seq2Seq with Attention](https://github.com/taemin6697/Paper_Review/blob/master/Seq2Seq_with_attention.pdf)__
