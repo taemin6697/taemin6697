@@ -22,6 +22,7 @@
 ---
     
 ### Competitions
+> * __Boostcamp AI Tech - Open-Domain Question Answering, MRC__ / 2023.06.07 ~ 2023.06.22
 > * __Boostcamp AI Tech - Topic Classification, Data-Centric__ / 2023.05.24 ~ 2023.06.01
 > * __Boostcamp AI Tech - Relation Extraction, RE__ / 2023.05.03 ~ 2023.05.18
 > * __2023년 K-디지털 트레이닝 해커톤 예선 진출__ / 2023.05.17
