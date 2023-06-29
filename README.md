@@ -33,6 +33,9 @@
 ----
 
 ### Paper Review
+> * __Language Models are Unsupervised Multitask Learners / [GPT-2](
+https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-Models-are-Unsupervised-Multitask-Learners%EC%9E%91%EC%84%B1-%EC%98%88%EC%A0%95
+)__
 > * __Learning Transferable Visual Models From Natural Language Supervision / [CLIP](https://velog.io/@tm011899/CLIP-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0)__
 > * __Improving Language Understanding by Generative Pre-Training / [GPT-1](https://velog.io/@tm011899/GPT-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)__
 > * __Pre-training of Deep Bidirectional Transformers for Language Understanding / [BERT](https://velog.io/@tm011899/BERT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0%EC%93%B0%EB%8A%94%EC%A4%91)__
