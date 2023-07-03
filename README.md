@@ -16,7 +16,7 @@
 ---
 
 ### Experiences
-> * __LG Aimers 3th, [LG Aimers](https://www.lgaimer.ai/)__ / 2023.07 ~
+> * __LG Aimers 3th, [LG Aimers](https://www.lgaimers.ai/)__ / 2023.07 ~
 > * __NLP AI Developer 5th, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/)__ / 2023.03 ~
 > * __Hansung University Undergraduate researcher : [Visual Intelligence Lab](https://sites.google.com/view/hs-vilab).__ / 2023.03 ~ 2023.04
 > * __Hansung University Undergraduate researcher Project : [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022.06 ~ 2023.03
