@@ -54,6 +54,7 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 
 ### Uploaded Model 🤗
 > * __kfkas/Llama-2-ko-7b-Chat🦙 / [Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)__
+> * __kfkas/legal-question-filter-koelectra / [Huggingface](https://huggingface.co/kfkas/legal-question-filter-koelectra)__
 > * __kfkas/t5-large-korean-P2G / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-P2G)__
 > * __kfkas/t5-large-korean-news-title-klue-ynat / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-news-title-klue-ynat)__
 > * __kfkas/RoBERTa-large-Detection-P2G / [Huggingface](https://huggingface.co/kfkas/RoBERTa-large-Detection-P2G)__
