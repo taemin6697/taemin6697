@@ -34,6 +34,7 @@
 ----
 
 ### Paper Review
+> * __A Successor to Transformer for Large Language Models / [RetNet](https://velog.io/@tm011899/RetNet-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0A-Successor-to-Transformer-for-Large-Language-Models)__
 > * __Language Models are Unsupervised Multitask Learners / [GPT-2](
 https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-Models-are-Unsupervised-Multitask-Learners%EC%9E%91%EC%84%B1-%EC%98%88%EC%A0%95
 )__
