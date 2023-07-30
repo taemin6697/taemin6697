@@ -29,6 +29,7 @@
 > * __Boostcamp AI Tech - Relation Extraction, RE__ / 2023.05.03 ~ 2023.05.18
 > * __2023년 K-디지털 트레이닝 해커톤 예선 진출__ / 2023.05.17
 > * __Boostcamp AI Tech - Semantic Text Similarity, STS__ / 2023.04.12 ~ 2023.04.20
+> * __Visual Intelligence Lab, Food Object Detection Project__ / 2023.03. ~ 2023.04.
 > * __2023 교원그룹 AI 챌린지 본선 진출, [Dacon](https://dacon.io/competitions/open/236057/overview/description)__ / 2023.01.30 ~ 2023.02.13
 > * __TV 손동작 제어 인식 AI 경진대회, [Dacon](https://dacon.io/competitions/official/236050/overview/description)__ / 2023.01.02 ~ 2023.02.06
 > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
