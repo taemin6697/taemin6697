@@ -23,7 +23,7 @@
 ---
     
 ### Competitions & Project
-> * __Boostcamp AI Tech - LawBot(Legal-GPT) Serving Project, Final-Project__ / 2023.07. ~ 2023.08.
+> * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, Final-Project__ / 2023.07. ~ 2023.08.
 > * __Boostcamp AI Tech - Open-Domain Question Answering, MRC__ / 2023.06.07 ~ 2023.06.22
 > * __Boostcamp AI Tech - Topic Classification, Data-Centric__ / 2023.05.24 ~ 2023.06.01
 > * __Boostcamp AI Tech - Relation Extraction, RE__ / 2023.05.03 ~ 2023.05.18
