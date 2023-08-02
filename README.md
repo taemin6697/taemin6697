@@ -24,11 +24,11 @@
     
 ### Competitions & Project
 > * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, [Final-Project](https://github.com/taemin6697/level3_nlp_finalproject-nlp-08/tree/main)__ / 2023.07. ~ 2023.08.
-> * __Boostcamp AI Tech - Open-Domain Question Answering, MRC__ / 2023.06.07 ~ 2023.06.22
-> * __Boostcamp AI Tech - Topic Classification, Data-Centric__ / 2023.05.24 ~ 2023.06.01
-> * __Boostcamp AI Tech - Relation Extraction, RE__ / 2023.05.03 ~ 2023.05.18
+> * __Boostcamp AI Tech - Open-Domain Question Answering, [MRC](https://github.com/taemin6697/level2_nlp_mrc-nlp-08)__ / 2023.06.07 ~ 2023.06.22
+> * __Boostcamp AI Tech - Topic Classification, [Data-Centric](https://velog.io/@tm011899/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-5%EA%B8%B0-1213%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0KlUE-TC-%EB%8C%80%ED%9A%8C)__ / 2023.05.24 ~ 2023.06.01
+> * __Boostcamp AI Tech - Relation Extraction, [RE](https://github.com/taemin6697/level2_klue-nlp-08)__ / 2023.05.03 ~ 2023.05.18
 > * __2023년 K-디지털 트레이닝 해커톤 예선 진출__ / 2023.05.17
-> * __Boostcamp AI Tech - Semantic Text Similarity, STS__ / 2023.04.12 ~ 2023.04.20
+> * __Boostcamp AI Tech - Semantic Text Similarity, [STS](https://github.com/taemin6697/Level1_Semantictextsimilarity-Nlp-11)__ / 2023.04.12 ~ 2023.04.20
 > * __Visual Intelligence Lab, Food Object Detection Project__ / 2023.03. ~ 2023.04.
 > * __2023 교원그룹 AI 챌린지 본선 진출, [Dacon](https://dacon.io/competitions/open/236057/overview/description)__ / 2023.01.30 ~ 2023.02.13
 > * __TV 손동작 제어 인식 AI 경진대회, [Dacon](https://dacon.io/competitions/official/236050/overview/description)__ / 2023.01.02 ~ 2023.02.06
