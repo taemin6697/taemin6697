@@ -23,7 +23,7 @@
 ---
     
 ### Competitions & Project
-> * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, [Final Project](https://github.com/taemin6697/level3_nlp_finalproject-nlp-08/tree/main)__ / 2023.07. ~ 2023.08.
+> * __Boostcamp AI Tech - LawBot(Legal-GPT) Project Serving, [Final Project](https://github.com/taemin6697/level3_nlp_finalproject-nlp-08/tree/main), [Demo](https://yoonseul.link)__ / 2023.07. ~ 2023.08.
 > * __Boostcamp AI Tech - Open-Domain Question Answering, [ODQA](https://github.com/taemin6697/level2_nlp_mrc-nlp-08)__ / 2023.06.07 ~ 2023.06.22
 > * __Boostcamp AI Tech - Topic Classification, [TC](https://velog.io/@tm011899/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-5%EA%B8%B0-1213%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0KlUE-TC-%EB%8C%80%ED%9A%8C)__ / 2023.05.24 ~ 2023.06.01
 > * __Boostcamp AI Tech - Relation Extraction, [RE](https://github.com/taemin6697/level2_klue-nlp-08)__ / 2023.05.03 ~ 2023.05.18
