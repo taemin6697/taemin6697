@@ -69,7 +69,7 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 
 
 
-﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&langs_count=10&layout=compact&theme=dark)](https://github.com/taemin6697/taemin6697)﻿
+﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&langs_count=10&layout=compact&theme=white)](https://github.com/taemin6697/taemin6697)﻿
 ﻿
 ---
 
