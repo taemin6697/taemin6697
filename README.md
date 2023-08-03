@@ -53,7 +53,7 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 > * __Involution: Inverting the Inherence of Convolution for Visual Recognition / [Involution](https://github.com/taemin6697/Paper_Review/blob/master/involution.pdf)__
 > * __Micro-Batch Training with Batch-Channel Normalization and Weight Standardization / [Weight Standardization](https://github.com/taemin6697/Paper_Review/blob/master/Weight%20Standardization-re.pdf)__
 > * __Big Transfer (BiT): General Visual Representation Learning / [BiT](https://github.com/taemin6697/Paper_Review/blob/master/BiT(AI%20study).pdf)__
-> * #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos), [Velog](https://velog.io/@tm011899)에서 확인할 수 있습니다.
+> #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos), [Velog](https://velog.io/@tm011899)에서 확인할 수 있습니다.
 ----
 
 ### Uploaded Model 🤗
