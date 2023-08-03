@@ -69,7 +69,7 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin6697&layout=compact)](https://github.com/taemin6697/github-readme-stats)
 ---
 
 <b> Baekjoon Tier </b>
