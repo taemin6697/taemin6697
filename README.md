@@ -34,7 +34,7 @@
 > * __TV 손 동작 제어 비디오 인식 AI 경진대회, [Dacon](https://dacon.io/competitions/official/236050/overview/description)__ / 2023.01.02 ~ 2023.02.06
 > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
 > * __Marusys edu Co., Ltd. 유아용 AI TeachableMachine 개발, [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022-06. ~ 2023-03.
-> #### 🎉[Legal-GPT Demo](https://yoonseul.link)가 현재 오픈중입니다!🎉
+> #### ☁️[Legal-GPT Demo](https://yoonseul.link)가 현재 오픈중입니다!☁️
 ----
 
 ### Paper Review
