@@ -58,9 +58,7 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 > #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos), [Velog](https://velog.io/@tm011899)에서 확인할 수 있습니다.
 ----
 
-### Uploaded Model <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-  </a>
+### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
 > * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
 > * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
 > * __kfkas/Llama-2-ko-7b-Chat🦙 / [Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)__
