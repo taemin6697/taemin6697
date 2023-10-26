@@ -12,7 +12,8 @@
     <br/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=falt&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
-
+    
+---
 
 ### Experiences
 > * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~
