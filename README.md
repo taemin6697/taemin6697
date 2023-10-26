@@ -12,7 +12,9 @@
     <br/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=falt&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+    
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaemin6697%2Fhit-counter&count_bg=%23000000&title_bg=%23FFFD54&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
 ---
 
 ### Experiences
