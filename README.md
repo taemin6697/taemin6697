@@ -39,6 +39,7 @@
 ----
 
 ### Paper Review
+> * __FINE-GRAINED INTERACTIVE LANGUAGE- IMAGE PRE-TRAINING / [FILIP](https://velog.io/@tm011899/FILIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0FINE-GRAINED-INTERACTIVE-LANGUAGE-IMAGE-PRE-TRAINING)__
 > * __Align before Fuse: Vision and Language Representation Learning with Momentum Distillation / [ALBEF](https://velog.io/@tm011899/Align-before-Fuse-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation)__
 > * __Visual Instruction Tuning / [LLaVA](https://velog.io/@tm011899/LLaVA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Visual-Instruction-Tuning)__
 > * __VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text / [VATT](https://velog.io/@tm011899/VATT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0VATT-Transformers-for-Multimodal-Self-Supervised-Learning-from-Raw-Video-Audio-and-Text-4f8n4dkl)__
