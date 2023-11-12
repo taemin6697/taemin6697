@@ -37,8 +37,8 @@
 > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
 > * __Marusys edu Co., Ltd. 유아용 AI TeachableMachine 개발, [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022-06. ~ 2023-03.
 ----
-
 ### Paper Review
+> * __BEiT: BERT Pre-Training of Image Transformers / [BEiT](https://velog.io/@tm011899/BEiT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0BEiT-BERT-Pre-Training-of-Image-Transformers)__
 > * __FINE-GRAINED INTERACTIVE LANGUAGE- IMAGE PRE-TRAINING / [FILIP](https://velog.io/@tm011899/FILIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0FINE-GRAINED-INTERACTIVE-LANGUAGE-IMAGE-PRE-TRAINING)__
 > * __Align before Fuse: Vision and Language Representation Learning with Momentum Distillation / [ALBEF](https://velog.io/@tm011899/Align-before-Fuse-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation)__
 > * __Visual Instruction Tuning / [LLaVA](https://velog.io/@tm011899/LLaVA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Visual-Instruction-Tuning)__
