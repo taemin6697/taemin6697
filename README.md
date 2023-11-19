@@ -38,6 +38,7 @@
 > * __Marusys edu Co., Ltd. 유아용 AI TeachableMachine 개발, [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022-06. ~ 2023-03.
 ----
 ### Paper Review
+> * __SLIP: Self-supervision meets Language-Image Pre-training / [SLIP](https://velog.io/@tm011899/SLIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0SLIP-Self-supervision-meets-Language-Image-Pre-training)__
 > * __BEiT: BERT Pre-Training of Image Transformers / [BEiT](https://velog.io/@tm011899/BEiT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0BEiT-BERT-Pre-Training-of-Image-Transformers)__
 > * __FINE-GRAINED INTERACTIVE LANGUAGE- IMAGE PRE-TRAINING / [FILIP](https://velog.io/@tm011899/FILIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0FINE-GRAINED-INTERACTIVE-LANGUAGE-IMAGE-PRE-TRAINING)__
 > * __Align before Fuse: Vision and Language Representation Learning with Momentum Distillation / [ALBEF](https://velog.io/@tm011899/Align-before-Fuse-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation)__
