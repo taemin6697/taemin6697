@@ -17,7 +17,7 @@
 ---
 
 ### Experiences
-> * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~
+> * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~ 2023.12
 > * __LG Aimers 3th, [LG Aimers](https://www.lgaimers.ai/)__ / 2023.07 ~ 2023.09
 > * __NLP AI Developer 5th, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/)__ / 2023.03 ~ 2023.08
 > * __Hansung University Undergraduate researcher : [Visual Intelligence Lab](https://sites.google.com/view/hs-vilab).__ / 2023.03 ~ 2023.04
