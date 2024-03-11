@@ -38,6 +38,18 @@
 > * __Marusys edu Co., Ltd. 유아용 AI TeachableMachine 개발, [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022-06. ~ 2023-03.
 ----
 ### Paper Review
+### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
+> * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
+> * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
+> * __kfkas/Llama-2-ko-7b-Chat🦙 / [Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)__
+> * __kfkas/legal-question-filter-koelectra / [Huggingface](https://huggingface.co/kfkas/legal-question-filter-koelectra)__
+> * __kfkas/t5-large-korean-P2G / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-P2G)__
+> * __kfkas/t5-large-korean-news-title-klue-ynat / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-news-title-klue-ynat)__
+> * __kfkas/RoBERTa-large-Detection-G2P / [Huggingface](https://huggingface.co/kfkas/RoBERTa-large-Detection-P2G)__
+> #### 🎉kfkas/Llama-2-ko-7b-Chat🦙 모델이 **42k** 다운로드를 돌파하였습니다.🎉
+----
+
+### Paper Review
 > * __SLIP: Self-supervision meets Language-Image Pre-training / [SLIP](https://velog.io/@tm011899/SLIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0SLIP-Self-supervision-meets-Language-Image-Pre-training)__
 > * __BEiT: BERT Pre-Training of Image Transformers / [BEiT](https://velog.io/@tm011899/BEiT-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0BEiT-BERT-Pre-Training-of-Image-Transformers)__
 > * __FINE-GRAINED INTERACTIVE LANGUAGE- IMAGE PRE-TRAINING / [FILIP](https://velog.io/@tm011899/FILIP-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0FINE-GRAINED-INTERACTIVE-LANGUAGE-IMAGE-PRE-TRAINING)__
@@ -63,17 +75,6 @@ https://velog.io/@tm011899/GPT-2-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Language-M
 > * __Micro-Batch Training with Batch-Channel Normalization and Weight Standardization / [Weight Standardization](https://github.com/taemin6697/Paper_Review/blob/master/Weight%20Standardization-re.pdf)__
 > * __Big Transfer (BiT): General Visual Representation Learning / [BiT](https://github.com/taemin6697/Paper_Review/blob/master/BiT(AI%20study).pdf)__
 > #### 일부 리뷰는 [Youtube](https://www.youtube.com/@user-dt2tf9mm8y/videos), [Velog](https://velog.io/@tm011899)에서 확인할 수 있습니다.
-----
-
-### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
-> * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
-> * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
-> * __kfkas/Llama-2-ko-7b-Chat🦙 / [Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)__
-> * __kfkas/legal-question-filter-koelectra / [Huggingface](https://huggingface.co/kfkas/legal-question-filter-koelectra)__
-> * __kfkas/t5-large-korean-P2G / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-P2G)__
-> * __kfkas/t5-large-korean-news-title-klue-ynat / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-news-title-klue-ynat)__
-> * __kfkas/RoBERTa-large-Detection-G2P / [Huggingface](https://huggingface.co/kfkas/RoBERTa-large-Detection-P2G)__
-> #### 🎉kfkas/Llama-2-ko-7b-Chat🦙 모델이 **42k** 다운로드를 돌파하였습니다.🎉
 ----
 
 
