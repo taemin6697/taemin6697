@@ -46,7 +46,7 @@
 > * __kfkas/t5-large-korean-P2G / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-P2G)__
 > * __kfkas/t5-large-korean-news-title-klue-ynat / [Huggingface](https://huggingface.co/kfkas/t5-large-korean-news-title-klue-ynat)__
 > * __kfkas/RoBERTa-large-Detection-G2P / [Huggingface](https://huggingface.co/kfkas/RoBERTa-large-Detection-P2G)__
-> #### 🎉kfkas/Llama-2-ko-7b-Chat🦙 모델이 **46k** 다운로드를 돌파하였습니다.🎉
+> #### 🎉kfkas/Llama-2-ko-7b-Chat🦙 모델이 **51k** 다운로드를 돌파하였습니다.🎉
 ----
 
 ### Paper Review
