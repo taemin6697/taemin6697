@@ -37,7 +37,7 @@
 > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
 > * __Marusys edu Co., Ltd. 유아용 AI TeachableMachine 개발, [Marusys edu Co., Ltd.](http://marusysedu.kr/)__ / 2022-06. ~ 2023-03.
 ----
-### Paper Review
+
 ### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
 > * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
 > * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
