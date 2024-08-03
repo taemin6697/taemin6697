@@ -41,6 +41,7 @@
 ----
 
 ### Uploaded Model <img src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="huggingface" width="20" height="20"/>
+> * __kfkas/Hansung-Llama-3-8B / [Huggingface](https://huggingface.co/kfkas/Hansung-Llama-3-8B)__
 > * __kfkas/Legal-Llama-2-ko-7b-Chat⚖️🦙 / [Huggingface](https://huggingface.co/kfkas/Legal-Llama-2-ko-7b-Chat)__
 > * __YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch⚖️ / [Huggingface](https://huggingface.co/YoonSeul/LawBot-level-3-KuLLM-5.8B-tae-2epoch)__
 > * __kfkas/Llama-2-ko-7b-Chat🦙 / [Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)__
