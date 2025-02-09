@@ -18,7 +18,7 @@
 ---
 
 ### Experiences 
-> * __Korea RI Lab Intern, [Korea RI Lab](https://sites.google.com/view/sungjoon-choi/home)__ / 2024.12 ~
+> * __Korea University RI Lab Intern, [RI Lab](https://sites.google.com/view/sungjoon-choi/home)__ / 2024.12 ~
 > * __KAIST IC Lab Intern, [KAIST IC Lab](https://ic.kaist.ac.kr/)__ / 2024.07 ~ 2024.09
 > * __Alethio ML Researcher Intern, [Alethio Co., Ltd.](https://alethio.io/)__ / 2023.08 ~ 2023.12
 > * __LG Aimers 3th, [LG Aimers](https://www.lgaimers.ai/)__ / 2023.07 ~ 2023.09
