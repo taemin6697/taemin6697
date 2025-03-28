@@ -1,4 +1,7 @@
-# [Profile](https://taemin6697.github.io/)
+<h1 align="center">
+    <a href="https://taemin6697.github.io/">🚀 Profile 🚀</a>
+</h1>
+
 
 ### Hello 👋, I'm Tae-min Kim, whose dream is to become an AI researcher. 
 
