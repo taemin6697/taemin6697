@@ -1,4 +1,4 @@
-## [Profile](https://taemin6697.github.io/)
+# [Profile](https://taemin6697.github.io/)
 
 ### Hello 👋, I'm Tae-min Kim, whose dream is to become an AI researcher. 
 
